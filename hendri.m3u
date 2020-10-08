@@ -1,0 +1,779 @@
+#EXTM3U
+#EXTINF:-1,NETTV
+https://chama.ml/channelgratisan-NET
+#EXTINF:-1,SCTV
+https://chama.ml/channelgratisan-SCTV
+#EXTINF:-1,INDOSIAR
+https://chama.ml/channelgratisan-INDOSIAR
+#EXTINF:-1,DRAKOR TV
+http://iptv.zqstream.com/zqdrama-gen/video.m3u8?token=vQqPVtl-k0
+#EXTINF:-1,MNCTV
+https://raw.githubusercontent.com/zalindo/tv/master/mnctv.m3u8
+#EXTINF:-1,MNCTV HD
+https://raw.githubusercontent.com/zalindo/tv/master/mnctvsd.m3u8
+#EXTINF:-1,GLOBAL TV SD
+https://raw.githubusercontent.com/zalindo/tv/master/global.m3u8
+#EXTINF:-1,GLOBAL TV HD
+https://raw.githubusercontent.com//tv/master/globalsd.m3u8
+#EXTINF:-1RCTI
+https://raw.githubusercontent.com/zalindo/tv/master/rcti.m3u8
+#EXTINF:-1,RCTI HD
+https://raw.githubusercontent.com/zalindo/tv/master/rctisd.m3u8
+#EXTINF:-1,TRANS7
+https://chama.ml/channelgratisan-TRANS7
+#EXTINF:-1,TRANSTV
+https://chama.ml/channelgratisan-TRANSTV
+#EXTINF:-1,KOMPASTV
+https://chama.ml/channelgratisan-KOMPASTV
+#EXTINF:-1,TVONE
+https://chama.ml/channelgratisan-TVONE
+#EXTINF:-1,METROTV
+https://chostv.mobie.in/choos/iptv/metrotv.m3u8
+#EXTINF:-1,TVRI
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+#EXTINF:-1 ,CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
+#EXTINF:-1,UK: BT Sports 3
+http://mr4k.pk:8080/1111as/1111as/11118
+#EXTINF:-1,KUJTESA SPORT 2 HD
+http://mr4k.pk:8080/1111as/1111as/11257
+#EXTINF:-1,Tr: Tivibu Sport 1
+http://mr4k.pk:8080/1111as/1111as/11269
+#EXTINF:-1,Tr: Tivibu Sport 2
+http://mr4k.pk:8080/1111as/1111as/11270
+#EXTINF:-1,Tr: Tivibu Sport 3
+http://mr4k.pk:8080/1111as/1111as/11271
+#EXTINF:-1,Tr: Sport Tv
+http://mr4k.pk:8080/1111as/1111as/11274
+#EXTINF:-1,Tr: Smart Sport
+http://mr4k.pk:8080/1111as/1111as/11279
+#EXTINF:-1,VIP Arena Sport 1 srb FHD
+http://mr4k.pk:8080/1111as/1111as/15090
+#EXTINF:-1,VIP Arena Sport 2 srb FHD
+http://mr4k.pk:8080/1111as/1111as/15091
+#EXTINF:-1,VIP Arena Sport 3 srb FHD
+http://mr4k.pk:8080/1111as/1111as/15092
+#EXTINF:-1,VIP Arena Sport 4 srb FHD
+http://mr4k.pk:8080/1111as/1111as/15093
+#EXTINF:-1,VIP Arena Sport 5 srb FHD
+http://mr4k.pk:8080/1111as/1111as/15094
+#EXTINF:-1,VIP Arena Sport 1 Srb
+http://mr4k.pk:8080/1111as/1111as/15095
+#EXTINF:-1,VIP Arena Sport 2 Srb
+http://mr4k.pk:8080/1111as/1111as/15096
+#EXTINF:-1,VIP Arena Sport 3 Srb
+http://mr4k.pk:8080/1111as/1111as/15097
+#EXTINF:-1,VIP Arena Sport 4 Srb
+http://mr4k.pk:8080/1111as/1111as/15098
+#EXTINF:-1,VIP Arena Sport 5 Srb
+http://mr4k.pk:8080/1111as/1111as/15099
+#EXTINF:-1,VIP Arena Sport 1 HD Hr
+http://mr4k.pk:8080/1111as/1111as/15100
+#EXTINF:-1,VIP Arena Sport 2 HD Hr
+http://mr4k.pk:8080/1111as/1111as/15101
+#EXTINF:-1,VIP Arena Sport 3 HD Hr
+http://mr4k.pk:8080/1111as/1111as/15102
+#EXTINF:-1,VIP Arena Sport 4 HD Hr
+http://mr4k.pk:8080/1111as/1111as/15103
+#EXTINF:-1,VIP Arena Sport 5 HD Hr
+http://mr4k.pk:8080/1111as/1111as/15104
+#EXTINF:-1,VIP Arena Sport 6 HR
+http://mr4k.pk:8080/1111as/1111as/15105
+#EXTINF:-1,VIP Sport Klub HD
+http://mr4k.pk:8080/1111as/1111as/15107
+#EXTINF:-1,VIP Sport Klub 1
+http://mr4k.pk:8080/1111as/1111as/15108
+#EXTINF:-1,VIP Sport Klub 2
+http://mr4k.pk:8080/1111as/1111as/15109
+#EXTINF:-1,VIP Sport Klub 3
+http://mr4k.pk:8080/1111as/1111as/15110
+#EXTINF:-1,VIP Sport Klub 4
+http://mr4k.pk:8080/1111as/1111as/15111
+#EXTINF:-1,VIP Sport Klub 5
+http://mr4k.pk:8080/1111as/1111as/15112
+#EXTINF:-1,VIP Sport Klub 6
+http://mr4k.pk:8080/1111as/1111as/15113
+#EXTINF:-1,VIP Sos
+http://mr4k.pk:8080/1111as/1111as/15114
+#EXTINF:-1,VIP HnTv
+http://mr4k.pk:8080/1111as/1111as/15115
+#EXTINF:-1,VIP Nova Sport
+http://mr4k.pk:8080/1111as/1111as/15116
+#EXTINF:-1,VIP Planet Sport 1
+http://mr4k.pk:8080/1111as/1111as/15117
+#EXTINF:-1,VIP Planet Sport 2
+http://mr4k.pk:8080/1111as/1111as/15118
+#EXTINF:-1,VIP Eurosport 1 HD
+http://mr4k.pk:8080/1111as/1111as/15119
+#EXTINF:-1,VIP Eurosport 2 HD
+http://mr4k.pk:8080/1111as/1111as/15120
+#EXTINF:-1,VIP TSN 1
+http://mr4k.pk:8080/1111as/1111as/15121
+#EXTINF:-1,VIP TSN 2
+http://mr4k.pk:8080/1111as/1111as/15122
+#EXTINF:-1,VIP TSN 3
+http://mr4k.pk:8080/1111as/1111as/15123
+#EXTINF:-1,VIP TSN 4
+http://mr4k.pk:8080/1111as/1111as/15124
+#EXTINF:-1,VIP TSN 5
+http://mr4k.pk:8080/1111as/1111as/15125
+#EXTINF:-1,VIP ESPN News
+http://mr4k.pk:8080/1111as/1111as/15126
+#EXTINF:-1,VIP ESPN
+http://mr4k.pk:8080/1111as/1111as/15127
+#EXTINF:-1,VIP ESPN 2
+http://mr4k.pk:8080/1111as/1111as/15128
+#EXTINF:-1,VIP ESPN U
+http://mr4k.pk:8080/1111as/1111as/15129
+#EXTINF:-1,VIP Sportsnet 360
+http://mr4k.pk:8080/1111as/1111as/15130
+#EXTINF:-1,VIP Sportsnet One
+http://mr4k.pk:8080/1111as/1111as/15131
+#EXTINF:-1,VIP SportsNet West
+http://mr4k.pk:8080/1111as/1111as/15132
+#EXTINF:-1,VIP SportsNet East
+http://mr4k.pk:8080/1111as/1111as/15133
+#EXTINF:-1,VIP Sportsnet World
+http://mr4k.pk:8080/1111as/1111as/15134
+#EXTINF:-1,VIP NFL Network
+http://mr4k.pk:8080/1111as/1111as/15135
+#EXTINF:-1,VIP NFL Redzone
+http://mr4k.pk:8080/1111as/1111as/15136
+#EXTINF:-1,VIP NHL Network
+http://mr4k.pk:8080/1111as/1111as/15137
+#EXTINF:-1,VIP NBA TV
+http://mr4k.pk:8080/1111as/1111as/15138
+#EXTINF:-1,VIP Tennis Channel
+http://mr4k.pk:8080/1111as/1111as/15139
+#EXTINF:-1,VIP Fox Sport 1
+http://mr4k.pk:8080/1111as/1111as/15140
+#EXTINF:-1,VIP Fox Sport 2
+http://mr4k.pk:8080/1111as/1111as/15141
+#EXTINF:-1,VIP Sky Sports News
+http://mr4k.pk:8080/1111as/1111as/15142
+#EXTINF:-1,VIP Sky Sports Mix
+http://mr4k.pk:8080/1111as/1111as/15143
+#EXTINF:-1,VIP Sky Sports Football
+http://mr4k.pk:8080/1111as/1111as/15147
+#EXTINF:-1,VIP Sky Sports Golf
+http://mr4k.pk:8080/1111as/1111as/15149
+#EXTINF:-1,VIP BT Sport 1
+http://mr4k.pk:8080/1111as/1111as/15151
+#EXTINF:-1,VIP BT Sport 2
+http://mr4k.pk:8080/1111as/1111as/15152
+#EXTINF:-1,VIP BT Sport 3
+http://mr4k.pk:8080/1111as/1111as/15153
+#EXTINF:-1,VIP BT Sport Espn
+http://mr4k.pk:8080/1111as/1111as/15154
+#EXTINF:-1,VIP Sky Sport 1
+http://mr4k.pk:8080/1111as/1111as/15155
+#EXTINF:-1,VIP Sky Sport Bundesliga 1
+http://mr4k.pk:8080/1111as/1111as/15157
+#EXTINF:-1,VIP Fox Sports 1
+http://mr4k.pk:8080/1111as/1111as/15158
+#EXTINF:-1,VIP Fox Sports 2
+http://mr4k.pk:8080/1111as/1111as/15159
+#EXTINF:-1,VIP Fox Sports 3
+http://mr4k.pk:8080/1111as/1111as/15160
+#EXTINF:-1,VIP Fox Sports 4
+http://mr4k.pk:8080/1111as/1111as/15161
+#EXTINF:-1,VIP Fox Sports 5
+http://mr4k.pk:8080/1111as/1111as/15162
+#EXTINF:-1,VIP Fox Sports 6
+http://mr4k.pk:8080/1111as/1111as/15163
+#EXTINF:-1,VIP Ziggo Sport
+http://mr4k.pk:8080/1111as/1111as/15164
+#EXTINF:-1,VIP Ziggo Sport Racing
+http://mr4k.pk:8080/1111as/1111as/15165
+#EXTINF:-1,VIP Ziggo Sport Select
+http://mr4k.pk:8080/1111as/1111as/15166
+#EXTINF:-1,VIP Ziggo Sport Golf
+http://mr4k.pk:8080/1111as/1111as/15167
+#EXTINF:-1,VIP BeIN Sports 1
+http://mr4k.pk:8080/1111as/1111as/15169
+#EXTINF:-1,VIP BeIN Sports 2
+http://mr4k.pk:8080/1111as/1111as/15170
+#EXTINF:-1,VIP BeIN Sports 3
+http://mr4k.pk:8080/1111as/1111as/15171
+#EXTINF:-1,VIP BeIN Sports 4
+http://mr4k.pk:8080/1111as/1111as/15172
+#EXTINF:-1,VIP BeIN Sports 5
+http://mr4k.pk:8080/1111as/1111as/15173
+#EXTINF:-1,VIP BeIN Sports 6
+http://mr4k.pk:8080/1111as/1111as/15174
+#EXTINF:-1,VIP BeIN Sports 7
+http://mr4k.pk:8080/1111as/1111as/15175
+#EXTINF:-1,VIP BeIN Sports 8
+http://mr4k.pk:8080/1111as/1111as/15176
+#EXTINF:-1,VIP BeIN Sports 9
+http://mr4k.pk:8080/1111as/1111as/15177
+#EXTINF:-1,VIP BeIN Sports 10
+http://mr4k.pk:8080/1111as/1111as/15178
+#EXTINF:-1,VIP BeIN Sports 11
+http://mr4k.pk:8080/1111as/1111as/15179
+#EXTINF:-1,VIP BeIN Sports 12
+http://mr4k.pk:8080/1111as/1111as/15180
+#EXTINF:-1,VIP BeIN Sports 13
+http://mr4k.pk:8080/1111as/1111as/15181
+#EXTINF:-1,VIP BeIN Sports USA
+http://mr4k.pk:8080/1111as/1111as/15182
+#EXTINF:-1,VIP RMC Sport 1
+http://mr4k.pk:8080/1111as/1111as/15183
+#EXTINF:-1,VIP RMC Sport 2
+http://mr4k.pk:8080/1111as/1111as/15184
+#EXTINF:-1,VIP RMC Sport 3
+http://mr4k.pk:8080/1111as/1111as/15185
+#EXTINF:-1,VIP RMC Sport 4
+http://mr4k.pk:8080/1111as/1111as/15186
+#EXTINF:-1,VIP Sky Sport 24 IT
+http://mr4k.pk:8080/1111as/1111as/15187
+#EXTINF:-1,VIP Sky Sport Uno IT
+http://mr4k.pk:8080/1111as/1111as/15188
+#EXTINF:-1,VIP Sky Sport Serie A IT
+http://mr4k.pk:8080/1111as/1111as/15189
+#EXTINF:-1,VIP Sky Sport Arena IT
+http://mr4k.pk:8080/1111as/1111as/15190
+#EXTINF:-1,VIP Sky Sport Football IT
+http://mr4k.pk:8080/1111as/1111as/15191
+#EXTINF:-1,VIP Sky Sport NBA IT
+http://mr4k.pk:8080/1111as/1111as/15192
+#EXTINF:-1,VIP Sky Sport F1 IT
+http://mr4k.pk:8080/1111as/1111as/15193
+#EXTINF:-1,VIP Sky Sport MotoGP IT
+http://mr4k.pk:8080/1111as/1111as/15194
+#EXTINF:-1,VIP Sky Sport Collection IT
+http://mr4k.pk:8080/1111as/1111as/15195
+#EXTINF:-1,VIP Super Tennis IT
+http://mr4k.pk:8080/1111as/1111as/15196
+#EXTINF:-1,VIP UFC USA
+http://mr4k.pk:8080/1111as/1111as/15197
+#EXTINF:-1,Abu Dhabi Sports 1
+http://mr4k.pk:8080/1111as/1111as/15211
+#EXTINF:-1,Abu Dhabi Sports 2
+http://mr4k.pk:8080/1111as/1111as/15212
+#EXTINF:-1,Abu Dhabi Sports 3
+http://mr4k.pk:8080/1111as/1111as/15213
+#EXTINF:-1,Abu Dhabi Sports 4
+http://mr4k.pk:8080/1111as/1111as/15214
+#EXTINF:-1,KSA Sport 1 HD
+http://mr4k.pk:8080/1111as/1111as/15215
+#EXTINF:-1,Jordan Sport
+http://mr4k.pk:8080/1111as/1111as/15216
+#EXTINF:-1,Oman Sport
+http://mr4k.pk:8080/1111as/1111as/15223
+#EXTINF:-1,Eleven Sports 1
+http://mr4k.pk:8080/1111as/1111as/15224
+#EXTINF:-1,Eleven Sports 2
+http://mr4k.pk:8080/1111as/1111as/15225
+#EXTINF:-1,Eleven Sports 3
+http://mr4k.pk:8080/1111as/1111as/15226
+#EXTINF:-1,Eleven Sports 4
+http://mr4k.pk:8080/1111as/1111as/15227
+#EXTINF:-1,Eleven Sports 5
+http://mr4k.pk:8080/1111as/1111as/15228
+#EXTINF:-1,Eleven Sports 6
+http://mr4k.pk:8080/1111as/1111as/15229
+#EXTINF:-1,FOX Sports MidWest
+http://mr4k.pk:8080/1111as/1111as/15230
+#EXTINF:-1,FOX Sports North
+http://mr4k.pk:8080/1111as/1111as/15231
+#EXTINF:-1,FOX Sports South
+http://mr4k.pk:8080/1111as/1111as/15232
+#EXTINF:-1,FOX Sports SouthEast
+http://mr4k.pk:8080/1111as/1111as/15233
+#EXTINF:-1,FOX Sports SouthWest
+http://mr4k.pk:8080/1111as/1111as/15234
+#EXTINF:-1,FOX Sports Prime Ticket
+http://mr4k.pk:8080/1111as/1111as/15236
+#EXTINF:-1,VIP FREESPORTS
+http://mr4k.pk:8080/1111as/1111as/15237
+#EXTINF:-1,WWE HD
+http://mr4k.pk:8080/1111as/1111as/31660
+#EXTINF:-1,UK:  Sky Sports Cricket UHD
+http://mr4k.pk:8080/1111as/1111as/33156
+#EXTINF:-1,Bein Sport SD1
+http://mr4k.pk:8080/1111as/1111as/30773
+#EXTINF:-1,Bein Sport SD2
+http://mr4k.pk:8080/1111as/1111as/30774
+#EXTINF:-1,Bein Sport SD3
+http://mr4k.pk:8080/1111as/1111as/30775
+#EXTINF:-1,Bein Sport SD4
+http://mr4k.pk:8080/1111as/1111as/30776
+#EXTINF:-1,Bein Sport SD5
+http://mr4k.pk:8080/1111as/1111as/30777
+#EXTINF:-1,Bein Sport SD6
+http://mr4k.pk:8080/1111as/1111as/30778
+#EXTINF:-1,Bein Sport SD7
+http://mr4k.pk:8080/1111as/1111as/30779
+#EXTINF:-1,Bein Sport SD8
+http://mr4k.pk:8080/1111as/1111as/30780
+#EXTINF:-1,Bein Sport SD9
+http://mr4k.pk:8080/1111as/1111as/30781
+#EXTINF:-1,Bein Sport SD10
+http://mr4k.pk:8080/1111as/1111as/30782
+#EXTINF:-1,Bein Sport SD11
+http://mr4k.pk:8080/1111as/1111as/30783
+#EXTINF:-1,Bein Baraem HD
+http://mr4k.pk:8080/1111as/1111as/30784
+#EXTINF:-1,Bein Jeem HD
+http://mr4k.pk:8080/1111as/1111as/30785
+#EXTINF:-1,Bein Boomerang HD
+http://mr4k.pk:8080/1111as/1111as/30786
+#EXTINF:-1,Bein Cartoon Network HD
+http://mr4k.pk:8080/1111as/1111as/30787
+#EXTINF:-1,Bein Dream Work HD
+http://mr4k.pk:8080/1111as/1111as/30788
+#EXTINF:-1,Bein Baby HD
+http://mr4k.pk:8080/1111as/1111as/30789
+#EXTINF:-1,Bein Sport HD
+http://mr4k.pk:8080/1111as/1111as/30790
+#EXTINF:-1,Bein Sport News HD
+http://mr4k.pk:8080/1111as/1111as/30791
+#EXTINF:-1,Bein Sport HD1 1080i
+http://mr4k.pk:8080/1111as/1111as/30792
+#EXTINF:-1,Bein Sport HD2 1080i
+http://mr4k.pk:8080/1111as/1111as/30793
+#EXTINF:-1,Bein Sport HD3 1080i
+http://mr4k.pk:8080/1111as/1111as/30794
+#EXTINF:-1,Bein Sport HD4 1080i
+http://mr4k.pk:8080/1111as/1111as/30795
+#EXTINF:-1,Bein Sport HD6 1080i
+http://mr4k.pk:8080/1111as/1111as/30797
+#EXTINF:-1,Bein Sport HD7 1080i
+http://mr4k.pk:8080/1111as/1111as/30798
+#EXTINF:-1,Bein Sport HD8 1080i
+http://mr4k.pk:8080/1111as/1111as/30799
+#EXTINF:-1,Bein Sport HD9 1080i
+http://mr4k.pk:8080/1111as/1111as/30800
+#EXTINF:-1,Bein Sport HD10 1080i
+http://mr4k.pk:8080/1111as/1111as/30801
+#EXTINF:-1,Bein Sport HD11 EN 1080i
+http://mr4k.pk:8080/1111as/1111as/30802
+#EXTINF:-1,Bein Sport HD12 EN 1080i
+http://mr4k.pk:8080/1111as/1111as/30803
+#EXTINF:-1,Bein Sport HD13 EN 1080i
+http://mr4k.pk:8080/1111as/1111as/30804
+#EXTINF:-1,Bein Sport HD14 Fr 1080i
+http://mr4k.pk:8080/1111as/1111as/30805
+#EXTINF:-1,Bein Sport HD1 720P
+http://mr4k.pk:8080/1111as/1111as/30809
+#EXTINF:-1,Bein Sport HD5 720P
+http://mr4k.pk:8080/1111as/1111as/30813
+#EXTINF:-1,Bein Sport HD7 720P
+http://mr4k.pk:8080/1111as/1111as/30815
+#EXTINF:-1,-----Sport-----
+http://mr4k.pk:8080/1111as/1111as/14918
+#EXTINF:-1,KUJTESA SPORT 1 HD
+http://mr4k.pk:8080/1111as/1111as/14925
+#EXTINF:-1,KUJTESA SPORT 2 HD
+http://mr4k.pk:8080/1111as/1111as/14926
+#EXTINF:-1,KUJTESA SPORT 3 HD
+http://mr4k.pk:8080/1111as/1111as/14927
+#EXTINF:-1,KUJTESA SPORT 4 HD
+http://mr4k.pk:8080/1111as/1111as/14928
+#EXTINF:-1,RTSH Sport
+http://mr4k.pk:8080/1111as/1111as/14929
+#EXTINF:-1,Tring Sport 1
+http://mr4k.pk:8080/1111as/1111as/14930
+#EXTINF:-1,Tring Sport 2
+http://mr4k.pk:8080/1111as/1111as/14931
+#EXTINF:-1,Tring Sport 3
+http://mr4k.pk:8080/1111as/1111as/14932
+#EXTINF:-1,Tring Sport 4
+http://mr4k.pk:8080/1111as/1111as/14933
+#EXTINF:-1,PT | SPORT TV 5(M)
+http://mr4k.pk:8080/1111as/1111as/34310
+#EXTINF:-1,PT | SPORT TV 4(M)
+http://mr4k.pk:8080/1111as/1111as/34311
+#EXTINF:-1,[PT] SPORT TV +(M)
+http://mr4k.pk:8080/1111as/1111as/34322
+#EXTINF:-1,[PT] SPORT TV +(M)
+http://mr4k.pk:8080/1111as/1111as/34323
+#EXTINF:-1,[PT] ELEVEN SPORTS 1 HD(M)
+http://mr4k.pk:8080/1111as/1111as/34324
+#EXTINF:-1,[PT] ELEVEN SPORTS 2 HD(M)
+http://mr4k.pk:8080/1111as/1111as/34325
+#EXTINF:-1,[PT] ELEVEN SPORTS 3 HD (M)
+http://mr4k.pk:8080/1111as/1111as/34326
+#EXTINF:-1,[PT] ELEVEN SPORTS 4 HD(M)
+http://mr4k.pk:8080/1111as/1111as/34327
+#EXTINF:-1,[PT] ELEVEN SPORTS 5(M)
+http://mr4k.pk:8080/1111as/1111as/34328
+#EXTINF:-1,[PT] ELEVEN SPORTS 6(M)
+http://mr4k.pk:8080/1111as/1111as/34329
+#EXTINF:-1,[PT] SPORTING TV(M)
+http://mr4k.pk:8080/1111as/1111as/34330
+#EXTINF:-1,[PT] EUROSPORT 1(M)
+http://mr4k.pk:8080/1111as/1111as/34331
+#EXTINF:-1,[PT] KOMBAT SPORT(M)
+http://mr4k.pk:8080/1111as/1111as/34332
+#EXTINF:-1,GR:Nova Sport 1 HD
+http://mr4k.pk:8080/1111as/1111as/36112
+#EXTINF:-1,GR:Nova Sports 2 HD
+http://mr4k.pk:8080/1111as/1111as/36113
+#EXTINF:-1,GR:Nova Sport 3 HD
+http://mr4k.pk:8080/1111as/1111as/36114
+#EXTINF:-1,GR:Nova Sports 4 HD
+http://mr4k.pk:8080/1111as/1111as/36115
+#EXTINF:-1,GR:Nova Sport 5 HD
+http://mr4k.pk:8080/1111as/1111as/36116
+#EXTINF:-1,GR:Cosmote Sport 1 HD
+http://mr4k.pk:8080/1111as/1111as/36117
+#EXTINF:-1,GR:Cosmote Sport 2 HD
+http://mr4k.pk:8080/1111as/1111as/36118
+#EXTINF:-1,GR:Cosmote Sport 3 HD
+http://mr4k.pk:8080/1111as/1111as/36119
+#EXTINF:-1,GR:Cosmote Sport 4 HD
+http://mr4k.pk:8080/1111as/1111as/36120
+#EXTINF:-1,GR:Cosmote Sport 5 HD
+http://mr4k.pk:8080/1111as/1111as/36121
+#EXTINF:-1,GR:Cosmote Sport 6 HD
+http://mr4k.pk:8080/1111as/1111as/36122
+#EXTINF:-1,GR:Cosmote Sport 7 HD
+http://mr4k.pk:8080/1111as/1111as/36123
+#EXTINF:-1,GR:Cosmote Sport 8 HD
+http://mr4k.pk:8080/1111as/1111as/36124
+#EXTINF:-1,GR:Cosmote Sport 9 HD
+http://mr4k.pk:8080/1111as/1111as/36125
+#EXTINF:-1,GR:ERT Sport HD
+http://mr4k.pk:8080/1111as/1111as/36126
+#EXTINF:-1,GR:Eurosport 2
+http://mr4k.pk:8080/1111as/1111as/36128
+#EXTINF:-1,|| FR || RMC SPORT 1 FHD
+http://mr4k.pk:8080/1111as/1111as/36663
+#EXTINF:-1,|| FR || RMC SPORT 2 FHD
+http://mr4k.pk:8080/1111as/1111as/36664
+#EXTINF:-1,|| FR || RMC SPORT 3 FHD
+http://mr4k.pk:8080/1111as/1111as/36665
+#EXTINF:-1,|| FR || RMC SPORT 4 FHD
+http://mr4k.pk:8080/1111as/1111as/36666
+#EXTINF:-1,|| FR || RMC Sport 1 HD
+http://mr4k.pk:8080/1111as/1111as/36667
+#EXTINF:-1,|| FR || RMC Sport 2 HD
+http://mr4k.pk:8080/1111as/1111as/36668
+#EXTINF:-1,|| FR || RMC Sport 3 HD
+http://mr4k.pk:8080/1111as/1111as/36669
+#EXTINF:-1,|| FR || RMC Sport 4 HD
+http://mr4k.pk:8080/1111as/1111as/36670
+#EXTINF:-1,|| FR || RMC Sport 1 Access HD
+http://mr4k.pk:8080/1111as/1111as/36671
+#EXTINF:-1,|| FR || RMC Sport 2 Access HD
+http://mr4k.pk:8080/1111as/1111as/36672
+#EXTINF:-1,|| FR || RMC Sport 3 Access HD
+http://mr4k.pk:8080/1111as/1111as/36673
+#EXTINF:-1,|| FR || RMC Sport Live 5 HD
+http://mr4k.pk:8080/1111as/1111as/36674
+#EXTINF:-1,|| FR || RMC Sport Live 6 HD
+http://mr4k.pk:8080/1111as/1111as/36675
+#EXTINF:-1,|| FR || RMC Sport Live 7 HD
+http://mr4k.pk:8080/1111as/1111as/36676
+#EXTINF:-1,|| FR || RMC Sport Live 8 HD
+http://mr4k.pk:8080/1111as/1111as/36677
+#EXTINF:-1,|| FR || RMC Sport Live 9 HD
+http://mr4k.pk:8080/1111as/1111as/36678
+#EXTINF:-1,|| FR || RMC Sport Live 10 HD
+http://mr4k.pk:8080/1111as/1111as/36679
+#EXTINF:-1,|| FR || RMC Sport Live 11 HD
+http://mr4k.pk:8080/1111as/1111as/36680
+#EXTINF:-1,|| FR || RMC Sport Live 12 HD
+http://mr4k.pk:8080/1111as/1111as/36681
+#EXTINF:-1,|| FR || RMC Sport Live 13 HD
+http://mr4k.pk:8080/1111as/1111as/36682
+#EXTINF:-1,|| FR || RMC Sport Live 14 HD
+http://mr4k.pk:8080/1111as/1111as/36683
+#EXTINF:-1,|| FR || RMC Sport Live 15 HD
+http://mr4k.pk:8080/1111as/1111as/36684
+#EXTINF:-1,|| FR || RMC Sport Live 16 HD
+http://mr4k.pk:8080/1111as/1111as/36685
+#EXTINF:-1,|| FR || RMC SPORT NEWS FHD
+http://mr4k.pk:8080/1111as/1111as/36686
+#EXTINF:-1,|| FR || RMC Sport News HD
+http://mr4k.pk:8080/1111as/1111as/36687
+#EXTINF:-1,|US| WWE
+http://mr4k.pk:8080/1111as/1111as/33088
+#EXTINF:-1,Fight Plus TV
+http://mr4k.pk:8080/1111as/1111as/33089
+#EXTINF:-1,GR:Nova Premiere HELLENIC
+http://mr4k.pk:8080/1111as/1111as/36096
+#EXTINF:-1,GR:Cosmote Cinema 1
+http://mr4k.pk:8080/1111as/1111as/36097
+#EXTINF:-1,GR:Cosmote Cinema 2
+http://mr4k.pk:8080/1111as/1111as/36098
+#EXTINF:-1,GR:Cosmote Cinema 2 HD
+http://mr4k.pk:8080/1111as/1111as/36099
+#EXTINF:-1,GR:Cosmote Cinema 3
+http://mr4k.pk:8080/1111as/1111as/36100
+#EXTINF:-1,GR:COSMOTE Cinema 3
+http://mr4k.pk:8080/1111as/1111as/36101
+#EXTINF:-1,GR:Cosmote Cinema 4
+http://mr4k.pk:8080/1111as/1111as/36102
+#EXTINF:-1,GR:COSMOTE Series
+http://mr4k.pk:8080/1111as/1111as/36103
+#EXTINF:-1,GR:NOVA PREMIERE 1
+http://mr4k.pk:8080/1111as/1111as/36104
+#EXTINF:-1,GR:NOVA PREMIERE 2
+http://mr4k.pk:8080/1111as/1111as/36105
+#EXTINF:-1,GR:NOVA PREMIERE 3
+http://mr4k.pk:8080/1111as/1111as/36106
+#EXTINF:-1,GR:NOVA PREMIERE 4
+http://mr4k.pk:8080/1111as/1111as/36107
+#EXTINF:-1,GR:Nova Cinema Action HD
+http://mr4k.pk:8080/1111as/1111as/36108
+#EXTINF:-1,GR:Nova Cinema 2  HD
+http://mr4k.pk:8080/1111as/1111as/36109
+#EXTINF:-1,GR:Nova Cinema 3 HD
+http://mr4k.pk:8080/1111as/1111as/36110
+#EXTINF:-1,GR:Nova Cinema 4 HD
+http://mr4k.pk:8080/1111as/1111as/36111
+#EXTINF:-1,Kid- Toyor Aljana
+http://mr4k.pk:8080/1111as/1111as/33602
+#EXTINF:-1,Kid- Oggy 1 TV
+http://mr4k.pk:8080/1111as/1111as/33603
+#EXTINF:-1,Kid- Oggy 2 TV
+http://mr4k.pk:8080/1111as/1111as/33604
+#EXTINF:-1,Kid- Shaun the Sheep 1
+http://mr4k.pk:8080/1111as/1111as/33605
+#EXTINF:-1,Kid- Shun The Sheep 2
+http://mr4k.pk:8080/1111as/1111as/33606
+#EXTINF:-1,Kid- Sanafir
+http://mr4k.pk:8080/1111as/1111as/33607
+#EXTINF:-1,Kid- SpaceToon
+http://mr4k.pk:8080/1111as/1111as/33608
+#EXTINF:-1,Kid- Cartoon network arabic
+http://mr4k.pk:8080/1111as/1111as/33609
+#EXTINF:-1,Kid- Nickelodeon HD
+http://mr4k.pk:8080/1111as/1111as/33610
+#EXTINF:-1,Kid- Disney HD
+http://mr4k.pk:8080/1111as/1111as/33611
+#EXTINF:-1,Kid- Nick Jr HD
+http://mr4k.pk:8080/1111as/1111as/33612
+#EXTINF:-1,Kid- NickToon HD
+http://mr4k.pk:8080/1111as/1111as/33613
+#EXTINF:-1,Kid- Disney XD HD
+http://mr4k.pk:8080/1111as/1111as/33614
+#EXTINF:-1,Kid- Disney Junior HD
+http://mr4k.pk:8080/1111as/1111as/33615
+#EXTINF:-1,Kid- Kids Zone HD
+http://mr4k.pk:8080/1111as/1111as/33616
+#EXTINF:-1,Kid- Baby TV
+http://mr4k.pk:8080/1111as/1111as/33617
+#EXTINF:-1,Kid- Kokky Kids TV
+http://mr4k.pk:8080/1111as/1111as/33618
+#EXTINF:-1,Kid- Mickey Channel
+http://mr4k.pk:8080/1111as/1111as/33619
+#EXTINF:-1,Kid- Karamesh
+http://mr4k.pk:8080/1111as/1111as/33620
+#EXTINF:-1,Kid- Ajyal HD
+http://mr4k.pk:8080/1111as/1111as/33621
+#EXTINF:-1,Kid- Majid Kids TV
+http://mr4k.pk:8080/1111as/1111as/33622
+#EXTINF:-1,Kid- Majid 7
+http://mr4k.pk:8080/1111as/1111as/33623
+#EXTINF:-1,Kid- Taha TV
+http://mr4k.pk:8080/1111as/1111as/33624
+#EXTINF:-1,Kid- Kuwait Kids
+http://mr4k.pk:8080/1111as/1111as/33625
+#EXTINF:-1,Kid- Atfal & mawaheb
+http://mr4k.pk:8080/1111as/1111as/33626
+#EXTINF:-1,Kid- Tom and Jerry 1
+http://mr4k.pk:8080/1111as/1111as/33627
+#EXTINF:-1,Kid- HodHod  TV
+http://mr4k.pk:8080/1111as/1111as/33628
+#EXTINF:-1,Kid- Nels TV
+http://mr4k.pk:8080/1111as/1111as/33629
+#EXTINF:-1,CRICKET HD
+http://mr4k.pk:8080/1111as/1111as/11703
+#EXTINF:-1,CARTOON NETWORK (UK)
+http://mr4k.pk:8080/1111as/1111as/11665
+#EXTINF:-1,US- Cartoon Network
+http://mr4k.pk:8080/1111as/1111as/31343
+#EXTINF:-1,Dn- CARTOON NETWORK
+http://mr4k.pk:8080/1111as/1111as/32376
+#EXTINF:-1,PL: Cartoon Network HD
+http://mr4k.pk:8080/1111as/1111as/32973
+#EXTINF:-1,-----Dokumentar-----
+http://mr4k.pk:8080/1111as/1111as/14783
+#EXTINF:-1,Explorer Shkence
+http://mr4k.pk:8080/1111as/1111as/14784
+#EXTINF:-1,Explorer Natyra
+http://mr4k.pk:8080/1111as/1111as/14785
+#EXTINF:-1,Explorer Histori
+http://mr4k.pk:8080/1111as/1111as/14786
+#EXTINF:-1,Tring Histori
+http://mr4k.pk:8080/1111as/1111as/14787
+#EXTINF:-1,Tring Planet
+http://mr4k.pk:8080/1111as/1111as/14788
+#EXTINF:-1,Tring World
+http://mr4k.pk:8080/1111as/1111as/14789
+#EXTINF:-1,Nat Geo Wild
+http://mr4k.pk:8080/1111as/1111as/14790
+#EXTINF:-1,Animal Planet HD
+http://mr4k.pk:8080/1111as/1111as/14791
+#EXTINF:-1,Discovery
+http://mr4k.pk:8080/1111as/1111as/14792
+#EXTINF:-1,DISTORI
+http://mr4k.pk:8080/1111as/1111as/14793
+#EXTINF:-1,XXX | FAP TV ANAL (W)
+http://mr4k.pk:8080/1111as/1111as/40770
+#EXTINF:-1,XXX | FAP TV PARODY (W)
+http://mr4k.pk:8080/1111as/1111as/40771
+#EXTINF:-1,XXX | FAP TV TEENS (W)
+http://mr4k.pk:8080/1111as/1111as/40772
+#EXTINF:-1,XXX | FAP TV LESBIAN (W)
+http://mr4k.pk:8080/1111as/1111as/40773
+#EXTINF:-1,XXX | FAP TV COMPILATION (W)
+http://mr4k.pk:8080/1111as/1111as/40774
+#EXTINF:-1,PENTHOUSE GOLD(M)
+http://mr4k.pk:8080/1111as/1111as/40776
+#EXTINF:-1,[XXX] PLAYBOY(M)
+http://mr4k.pk:8080/1111as/1111as/40777
+#EXTINF:-1,PRIVATE HD(M)
+http://mr4k.pk:8080/1111as/1111as/40779
+#EXTINF:-1,JASMIN(M)
+http://mr4k.pk:8080/1111as/1111as/40780
+#EXTINF:-1,[XXX] HOT PT(M)
+http://mr4k.pk:8080/1111as/1111as/40781
+#EXTINF:-1,SEXT & SENSO TV(M)
+http://mr4k.pk:8080/1111as/1111as/40782
+#EXTINF:-1,[XXX] HOT PT HD(M)
+http://mr4k.pk:8080/1111as/1111as/40783
+#EXTINF:-1,CANDY TV HD(M)
+http://mr4k.pk:8080/1111as/1111as/40784
+#EXTINF:-1,#XxX: Private  HD(M)
+http://mr4k.pk:8080/1111as/1111as/40785
+#EXTINF:-1,#XxX: Dorcel TV HD(M)
+http://mr4k.pk:8080/1111as/1111as/40786
+#EXTINF:-1,#XxX: Hustler HD(M)
+http://mr4k.pk:8080/1111as/1111as/40787
+#EXTINF:-1,XXX | PLAYBOY TV(I)
+http://mr4k.pk:8080/1111as/1111as/40790
+#EXTINF:-1,FAP TV3(I)
+http://mr4k.pk:8080/1111as/1111as/40794
+#EXTINF:-1,18: ADULTIPTV x2(I)
+http://mr4k.pk:8080/1111as/1111as/40795
+#EXTINF:-1,XXX | Pornstar(Q)
+http://mr4k.pk:8080/1111as/1111as/40798
+#EXTINF:-1,XXX | POV(Q)
+http://mr4k.pk:8080/1111as/1111as/40801
+#EXTINF:-1,XXX | Xpanded(Q)
+http://mr4k.pk:8080/1111as/1111as/40804
+#EXTINF:-1,XXX | Latina (Q)
+http://mr4k.pk:8080/1111as/1111as/40805
+#EXTINF:-1,XXX | Big Dick HD(Q)
+http://mr4k.pk:8080/1111as/1111as/40806
+#EXTINF:-1,XXX | Big Tits HD(Q)
+http://mr4k.pk:8080/1111as/1111as/40807
+#EXTINF:-1,XXX | Cuckold(Q)
+http://mr4k.pk:8080/1111as/1111as/40808
+#EXTINF:-1,XXX | Fetish(Q)
+http://mr4k.pk:8080/1111as/1111as/40809
+#EXTINF:-1,XXX | Hard Core(Q)
+http://mr4k.pk:8080/1111as/1111as/40810
+#EXTINF:-1,XXX | Live Cams(Q)
+http://mr4k.pk:8080/1111as/1111as/40812
+#EXTINF:-1,XXX | Brunette(Q)
+http://mr4k.pk:8080/1111as/1111as/40813
+#EXTINF:-1,XXX | Compilation(Q)
+http://mr4k.pk:8080/1111as/1111as/40814
+#EXTINF:-1,XXX | Gay(Q)
+http://mr4k.pk:8080/1111as/1111as/40815
+#EXTINF:-1,XXX | BBW(Q)
+http://mr4k.pk:8080/1111as/1111as/40818
+#EXTINF:-1,XXX: Reality Kings(S)
+http://mr4k.pk:8080/1111as/1111as/40833
+#EXTINF:-1,XXX: Vivid TV Europe HD(S)
+http://mr4k.pk:8080/1111as/1111as/40834
+#EXTINF:-1,XXX: XY Plus(S)
+http://mr4k.pk:8080/1111as/1111as/40835
+#EXTINF:-1,XXX: Playboy HD(S)
+http://mr4k.pk:8080/1111as/1111as/40836
+#EXTINF:-1,XXX: Sextreme HD(S)
+http://mr4k.pk:8080/1111as/1111as/40837
+#EXTINF:-1,XXX: Hustler HD(S)
+http://mr4k.pk:8080/1111as/1111as/40838
+#EXTINF:-1,XXX: Brazzers HD(S)
+http://mr4k.pk:8080/1111as/1111as/40839
+#EXTINF:-1,XXX: PassionXXX(S)
+http://mr4k.pk:8080/1111as/1111as/40840
+#EXTINF:-1,XXX: Tiny 4K(S)
+http://mr4k.pk:8080/1111as/1111as/40841
+#EXTINF:-1,XXX: Hard X(S)
+http://mr4k.pk:8080/1111as/1111as/40842
+#EXTINF:-1,XXX: Dark X(S)
+http://mr4k.pk:8080/1111as/1111as/40843
+#EXTINF:-1,XXX: EXotic 4K 1
+http://mr4k.pk:8080/1111as/1111as/40864
+#EXTINF:-1,XXX: EXotic 4K 2
+http://mr4k.pk:8080/1111as/1111as/40865
+#EXTINF:-1,XXX: Lub 4K
+http://mr4k.pk:8080/1111as/1111as/40866
+#EXTINF:-1,XXX: Cum 4K
+http://mr4k.pk:8080/1111as/1111as/40867
+#EXTINF:-1,XXX: For Adult 1
+http://mr4k.pk:8080/1111as/1111as/40868
+#EXTINF:-1,XXX: For Adult 2
+http://mr4k.pk:8080/1111as/1111as/40869
+#EXTINF:-1,XXX: For Adult 3
+http://mr4k.pk:8080/1111as/1111as/40870
+#EXTINF:-1,XXX: Adult 1
+http://mr4k.pk:8080/1111as/1111as/40871
+#EXTINF:-1,XXX: Adult 2
+http://mr4k.pk:8080/1111as/1111as/40872
+#EXTINF:-1,XXX: Adult 3
+http://mr4k.pk:8080/1111as/1111as/40873
+#EXTINF:-1,XXX: Adult 4
+http://mr4k.pk:8080/1111as/1111as/40874
+#EXTINF:-1,XXX: Adult 5
+http://mr4k.pk:8080/1111as/1111as/40875
+#EXTINF:-1,XXX: Hill Part 3
+http://mr4k.pk:8080/1111as/1111as/40876
+#EXTINF:-1,XXX: Ast 1 HD
+http://mr4k.pk:8080/1111as/1111as/40877
+#EXTINF:-1,XXX: Cuckold HD
+http://mr4k.pk:8080/1111as/1111as/40878
+#EXTINF:-1,XXX: Fetish HD
+http://mr4k.pk:8080/1111as/1111as/40879
+#EXTINF:-1,XXX: Hardcore HD
+http://mr4k.pk:8080/1111as/1111as/40880
+#EXTINF:-1,XXX: Interracial HD
+http://mr4k.pk:8080/1111as/1111as/40881
+#EXTINF:-1,XXX: Latina HD
+http://mr4k.pk:8080/1111as/1111as/40882
+#EXTINF:-1,XXX: Milf HD
+http://mr4k.pk:8080/1111as/1111as/40883
+#EXTINF:-1,XXX: Pornstar HD
+http://mr4k.pk:8080/1111as/1111as/40884
+#EXTINF:-1,XXX: Russian HD
+http://mr4k.pk:8080/1111as/1111as/40885
+#EXTINF:-1,Pink Erotic(C)
+http://mr4k.pk:8080/1111as/1111as/40910
+#EXTINF:-1,Pink Erotic 2(C)
+http://mr4k.pk:8080/1111as/1111as/40911
+#EXTINF:-1,Pink Erotic 3(C)
+http://mr4k.pk:8080/1111as/1111as/40912
+#EXTINF:-1,Pink Erotic 4(C)
+http://mr4k.pk:8080/1111as/1111as/40913
+#EXTINF:-1,Brazzers(C)
+http://mr4k.pk:8080/1111as/1111as/40914
+#EXTINF:-1,Dorcel(C)
+http://mr4k.pk:8080/1111as/1111as/40915
+#EXTINF:-1,Hustler(C)
+http://mr4k.pk:8080/1111as/1111as/40916
+#EXTINF:-1,Playboy(C)
+http://mr4k.pk:8080/1111as/1111as/40917
+#EXTINF:-1,Penthouse(C)
+http://mr4k.pk:8080/1111as/1111as/40918
+#EXTINF:-1,Dusk(C)
+http://mr4k.pk:8080/1111as/1111as/40919
+#EXTINF:-1,REDLIGHT HD(C)
+http://mr4k.pk:8080/1111as/1111as/40920
+#EXTINF:-1,Adult mix(C)
+http://mr4k.pk:8080/1111as/1111as/40921
+#EXTINF:-1,Adult mix 2(C)
+http://mr4k.pk:8080/1111as/1111as/40922
+#EXTINF:-1,Adult mix 3(C)
+http://mr4k.pk:8080/1111as/1111as/40923
+#EXTINF:-1,Adult mix 5(C)
+http://mr4k.pk:8080/1111as/1111as/40924
+#EXTINF:-1,Adult mix 4(C)
+http://mr4k.pk:8080/1111as/1111as/40925
